@@ -3,16 +3,6 @@
 [![Downloads](https://img.shields.io/pypi/dm/playwright-recaptcha.svg)](https://pypi.org/project/playwright-recaptcha/)
 [![License](https://img.shields.io/badge/license-MIT-red)](https://github.com/Xewdy444/Playwright-reCAPTCHA/blob/main/LICENSE)
 
----
-
-<div align="center">
-  <a href="https://www.capsolver.com/">
-    <img src="https://cdn.discordapp.com/attachments/1105172394655625306/1105180101802471575/20221207-160749.gif"/>
-  </a>
-  <br> At the lowest price on the market, you may receive a variety of solutions, including reCAPTCHA v2, reCAPTCHA v3, hCaptcha, hCaptcha Click, FunCaptcha, picture-to-text, AWS Amazon CAPTCHA, and more. With this service, 0.1s is the slowest speed ever measured.
-</div>
-
----
 
 # Playwright-reCAPTCHA
 A Python library for solving reCAPTCHA v2 and v3 with Playwright.
